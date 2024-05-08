@@ -6,11 +6,11 @@ I designed this board when the TLV62130RGTR regulators were out of stock as a dr
 
 I have added an additional VIN pad for builds that use VIN elsewhere in the project (such as feeding 12V to the audio amplifier / sensor bar in the Noldendo Miicro). I have also added jumper pads to enable / disable the 1v8 and 5v regulars if your build does not require either of them.
 
-**VIN Min: `rgb(0, 0, 255)`5V**
-**VIN Max: `rgb(255, 0, 0)`18V**
-**Max current output (per regulator): `rgb(255, 255, 0)`3A**
+**VIN Min: 5V**\
+**VIN Max: 18V**\
+**Max current output (per regulator): 3A**
 
-<img src="https://github.com/CrazyGadgetMods/PSU-Plus/blob/main/images/render.jpg" width=250> <img src="https://github.com/CrazyGadgetMods/PSU-Plus/blob/main/images/assembled.jpg" width=250>
+<img src="https://github.com/CrazyGadgetMods/PSU-Plus/blob/main/images/render.png" height=600> <img src="https://github.com/CrazyGadgetMods/PSU-Plus/blob/main/images/assembled.jpg" height=600>
 
 If you are interested in buying one of these boards pre-assembled, I sell them on my [Etsy Store](https://www.etsy.com/listing/1510321427/psu-plus-power-board-for-wii-micros).
 

@@ -15,5 +15,10 @@ I have added an additional VIN pad for builds that use VIN elsewhere in the proj
 
 If you are interested in buying one of these boards pre-assembled, I sell them on my [Etsy Store](https://www.etsy.com/listing/1510321427/psu-plus-power-board-for-wii-micros).
 
+## Credits
+- [YveltalGriffin](https://github.com/mackieks): Holding my hand while I did the layout of the board and answering my infinite questions
+- [Noah](https://bitbuilt.net/forums/index.php?members/noah.1/): Making the original [RVL-PSU](https://bitbuilt.net/forums/index.php?threads/rvl-psu.3335/)
+- [BitBuilt](https://bitbuilt.net/): Being the best modding community out there!
+
 ## License
 Solderpad Hardware License v2.1

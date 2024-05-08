@@ -1,3 +1,4 @@
+# PSU-Plus
 The PSU-Plus is the spiritual successor to Noah's RVL-PSU, designed for ease of assembly and versatility across many micro-type builds.
 
 Like it's predecessor, the PSU-Plus has 1V, 1.15V, 3.3V and 5V regulators. Where the PSU-Plus differs is the addition of a 1.8V regulator for builds that remove the LDO from the Wii (such as Wesk's GC Micro and the GC Nano).

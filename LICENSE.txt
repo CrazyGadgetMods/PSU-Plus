@@ -81,7 +81,7 @@ exist.
 
 APPENDIX
 
-Copyright 2024 Mackie Kannard-Smith SPDX-License-Identifier: Apache-2.0
+Copyright 2024 Connor O'Malley SPDX-License-Identifier: Apache-2.0
 WITH SHL-2.1
 
 Licensed under the Solderpad Hardware License v 2.1
